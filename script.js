@@ -23,3 +23,7 @@ function updateText() {
 
 const sadpok = 0;
 const newConst = 0;
+
+function testFunc() {
+  console.log("TEST");
+}
