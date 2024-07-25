@@ -20,5 +20,3 @@ function updateText() {
   countText.innerHTML = count;
   console.log(count);
 }
-
-dsadasiop;
