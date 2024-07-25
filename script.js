@@ -20,3 +20,5 @@ function updateText() {
   countText.innerHTML = count;
   console.log(count);
 }
+
+const sadpok = 0;
