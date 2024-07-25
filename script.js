@@ -22,4 +22,3 @@ function updateText() {
 }
 
 const sadpok = 0;
-const newConst = 0;
